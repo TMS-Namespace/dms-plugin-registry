@@ -70,12 +70,12 @@
     "url": "https://github.com/hthienloc/dms-activate-linux"
   },
   "adguardVPplugin": {
-    "date": "2026-07-10T19:02:11-03:00",
+    "date": "2026-07-10T23:29:09-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Up6FiNaPvHnqUjFOWbFcz47jg71RojFX8MzPGt1OLz4=",
+    "hash": "sha256-C1DZGgDr/2IESov23Ud27Mayvd4kFZAfPko4DmTziw0=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -100,12 +100,12 @@
       "repo": "https://github.com/bernardopg/dms-adguard-vpn-plugin",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/dms-adguard-vpn-plugin/main/docs/screenshot.png",
-      "version": "1.5.0"
+      "version": "1.5.1"
     },
-    "path": "/nix/store/z5lircbjvhfrfl0vb9azgfwsg3xx6x9l-dms-adguard-vpn-plugin",
-    "rev": "27016eadaaad1afc05a8b845f1de9df43ffa7172",
+    "path": "/nix/store/cyr9kqx76v156pzihj8j4ka2v5lq4pcc-dms-adguard-vpn-plugin",
+    "rev": "46722e51bdfef43945a4b39b0a32b02b934307eb",
     "rootDir": "",
-    "sha256": "0gig9vfimkycy1bk38jipn1y73ngbjqmjkiiabm7kg4gss48b7jj",
+    "sha256": "03cbydj0wf2a7qgr0594vsyv5ipcfr3xvxlb98265zzb00ddjl0b",
     "url": "https://github.com/bernardopg/dms-adguard-vpn-plugin"
   },
   "aiAssistant": {
@@ -298,12 +298,12 @@
     "url": "https://github.com/hthienloc/dms-ambient-sound"
   },
   "amdGpuMonitor": {
-    "date": "2026-07-07T11:08:38Z",
+    "date": "2026-07-11T19:04:22+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-HbFiTpbmBtcLffD0krgN3KSUAkpVsdZZyGm2EwTFYms=",
+    "hash": "sha256-wHg1m0cqAeM7nporbHjyE9Q/KH5BteIKWZ41T9Ybt6g=",
     "leaveDotGit": false,
     "meta": {
       "author": "navidagz",
@@ -327,10 +327,10 @@
       "screenshot": "https://raw.githubusercontent.com/navidagz/dms-amd-gpu-monitor/refs/heads/main/screenshots/screenshot.png",
       "version": "3.1.0"
     },
-    "path": "/nix/store/pal69fassv7gx74lycc47a2a8i3na3nf-dms-amd-gpu-monitor",
-    "rev": "6f1ac2b7ebe62e22e76721579d12fa946417285c",
+    "path": "/nix/store/d63jhgfnlazp7h92h8f102p6kvryfywa-dms-amd-gpu-monitor",
+    "rev": "3a2de757ffa8f90ee6401147929103b4bfad7776",
     "rootDir": "",
-    "sha256": "0sv2ql217dk9r1cxdcam9819996w1nw95x7hgl5xf1p6jr765c8x",
+    "sha256": "1a5p3gb4ydcyb45f5da1gql3zm0ky9w6qawskqxy609a8ydkay60",
     "url": "https://github.com/navidagz/dms-amd-gpu-monitor"
   },
   "amdGpuMonitorRevive": {
@@ -4242,12 +4242,12 @@
     "url": "https://github.com/psyreactor/dms-githubNotifier"
   },
   "gitlabNotifier": {
-    "date": "2026-07-10T18:59:29-03:00",
+    "date": "2026-07-11T01:31:20-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-EQkP7Wpv7uVa6Y1lhjFMkQvnn1pytby7xKarvDEHBUc=",
+    "hash": "sha256-uUcJuRq5WKgofookdFblqt6ydqYcr3I7nMRH6KBYdzY=",
     "leaveDotGit": false,
     "meta": {
       "author": "psyreactor",
@@ -4271,12 +4271,12 @@
       "repo": "https://github.com/psyreactor/dms-gitlabNotifier",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/psyreactor/dms-gitlabNotifier/raw/main/screenshot.png",
-      "version": "1.1.0"
+      "version": "1.2.0"
     },
-    "path": "/nix/store/25z3mqh3vyck1yxfsl6j9vw2pa8mdg2m-dms-gitlabNotifier",
-    "rev": "0eba0d327ebb0fcd20223ddb2599a02dc0021843",
+    "path": "/nix/store/nih0hkz20y9wjhbij1wsyc155yyfhpqx-dms-gitlabNotifier",
+    "rev": "7134f421f18f76a34852b179a9bb85f0e2c80b4f",
     "rootDir": "",
-    "sha256": "0iq50wqvrax6qjxvrdbjbagyf2wi9hqqcrcdx5dfbvkgdbnhy28i",
+    "sha256": "0dkpb2hfhiy4khxp5bqwlrvb5pmawmb7894agqlahn5r3awhjixr",
     "url": "https://github.com/psyreactor/dms-gitlabNotifier"
   },
   "gitmojiLauncher": {
@@ -6186,12 +6186,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-07-11T00:09:37+07:00",
+    "date": "2026-07-11T22:16:22+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-VxcRi8To/UgRCopk6Z4Rv+ODwCUn995xJC+iz5rFjQ0=",
+    "hash": "sha256-qsHRhGBPPpZ5pvf4/pCDM6B6KRlhvnxrbK3j/9ZFdDg=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6211,12 +6211,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "2.13.0"
+      "version": "2.15.0"
     },
-    "path": "/nix/store/nfxv52a0a16la04gpj7gf6di6zyn25xw-dms-quick-capture",
-    "rev": "03c967148b011f4c01347b428563fd05b3514fe9",
+    "path": "/nix/store/cg8cm9nig7wi51fn6dmcfiga6jspck83-dms-quick-capture",
+    "rev": "d656183ebf9d51744f6b24177cf3b4c6e06d6af8",
     "rootDir": "",
-    "sha256": "03cdqndcz8ig4iqxxxr74p087qxz26gfjr4a188lizg8qj5i25sp",
+    "sha256": "0f3l8pbgzqxddimprgk134lpm81khf8gxy7plrwrcgjgc22d3hda",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
