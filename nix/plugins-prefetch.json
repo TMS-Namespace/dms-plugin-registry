@@ -298,12 +298,12 @@
     "url": "https://github.com/hthienloc/dms-ambient-sound"
   },
   "amdGpuMonitor": {
-    "date": "2026-07-12T14:55:08+02:00",
+    "date": "2026-08-04T22:23:15+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/xZQAs2S49uer/RjpzIrHjtFiBQaG38ZvhcAnEjhZhA=",
+    "hash": "sha256-0B1covnslqKrANe28iKVLTFCG0WEBEJjGLP4TlzVBV4=",
     "leaveDotGit": false,
     "meta": {
       "author": "navidagz",
@@ -325,12 +325,12 @@
       "name": "AMD GPU Monitor",
       "repo": "https://github.com/navidagz/dms-amd-gpu-monitor",
       "screenshot": "https://raw.githubusercontent.com/navidagz/dms-amd-gpu-monitor/refs/heads/main/screenshots/screenshot.png",
-      "version": "3.1.0"
+      "version": "4.0.0"
     },
-    "path": "/nix/store/4ygavp81qakipvvyl8vffwplrnh1n9kv-dms-amd-gpu-monitor",
-    "rev": "1ab6a486f36e540668d72bc0217acacc0a3b24e1",
+    "path": "/nix/store/lfydjg2pg8li095d0izadxmkggffi2aj-dms-amd-gpu-monitor",
+    "rev": "2084a650e5369a1f8a9e421e855cc199a12c6a07",
     "rootDir": "",
-    "sha256": "0436w549q00ppqcpy6qs2j44afqy5crafqzlmygdpqwjrl1505pz",
+    "sha256": "0ph5smf4xy5k31il41448ldl4c9djlig5dnp02ms55pcz6i5q7fh",
     "url": "https://github.com/navidagz/dms-amd-gpu-monitor"
   },
   "amdGpuMonitorRevive": {
@@ -453,12 +453,12 @@
     "url": "https://github.com/RiceaRaul/DMS-AnimeCalendarPlugin"
   },
   "appLauncher": {
-    "date": "2026-07-03T03:41:36+07:00",
+    "date": "2026-08-03T14:19:33+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-sXaG838IBBCV85Iin/zicada0FpQUxANQrbl+nQ8l68=",
+    "hash": "sha256-lBC2IMFFW/xajLNqxaishh7M5plEXsMsgHJesq6frqs=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -480,12 +480,12 @@
       "name": "App Launcher",
       "repo": "https://github.com/hthienloc/dms-app-launcher",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-app-launcher/main/screenshot.png",
-      "version": "2.2.1"
+      "version": "2.2.2"
     },
-    "path": "/nix/store/h1cg296264n5gwprwklr6bqrzyd2s2za-dms-app-launcher",
-    "rev": "b8296a20f42593631db93c01d01e7a9706647acb",
+    "path": "/nix/store/ai0sghq9lpwqh4r6vcp6x8x8bqk56s12-dms-app-launcher",
+    "rev": "b190f6070da9be8fac579dd1da8b5651a42f034a",
     "rootDir": "",
-    "sha256": "1bwp7isgmrdn886i0lshbb85m9viwby9y8ljyfai0108gzrqcxmi",
+    "sha256": "1axfkypb4pkjh0nc6pj4k7kcq7l6mjlcasmkiidgqns5q4hbc44l",
     "url": "https://github.com/hthienloc/dms-app-launcher"
   },
   "appShortcut": {
@@ -4429,12 +4429,12 @@
     "url": "https://github.com/hthienloc/dms-hidden-bar"
   },
   "homeAssistantMonitor": {
-    "date": "2026-07-23T16:39:11+08:00",
+    "date": "2026-08-04T16:36:08+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-i/O+z1WoXmnM26s/DtWHW8+Y7dhMVpOB544m2pRwBSY=",
+    "hash": "sha256-T0jvHC7VPqXslPGsDC1u4wgBkWO6+4bYB4F21sU8D0c=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -4459,12 +4459,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-hass",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
-      "version": "2.0.6"
+      "version": "2.0.7"
     },
-    "path": "/nix/store/s81fj4cpikj5fix0l8q7q10ihj17cxq8-dms-plugin-hass",
-    "rev": "60c4acf5f06c0036a69193c40d3c77dc67da7467",
+    "path": "/nix/store/k1qjzqm3znmyafqgrr5wyhpxgqjx1927-dms-plugin-hass",
+    "rev": "fcc931b057faac50ab03a722682f73f08ae82c86",
     "rootDir": "",
-    "sha256": "09h5f2adl9lfwy0r6mjcv3nriksvhzahwgxbvg66jpm8ap7vxwwb",
+    "sha256": "0iqg7k2xcxl10zc8dyxscf8h2273dqnhrb7ijknaagnm5qffyj2g",
     "url": "https://github.com/xxyangyoulin/dms-plugin-hass"
   },
   "hostnameWidget": {
@@ -6186,12 +6186,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-08-02T07:08:03+07:00",
+    "date": "2026-08-04T23:03:57+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-znZqx6p6/ruM4MUVUOERrTySb67r+ZsDGKnRskOIZR8=",
+    "hash": "sha256-5mkRzuWvO8IlRYMDMYqdrF0PXOyNRRvBepNuu7vsXOE=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6211,12 +6211,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "3.8.1"
+      "version": "4.0.1"
     },
-    "path": "/nix/store/iyfq3yba4mmhxj9p57xp3wh17pp8xlwm-dms-quick-capture",
-    "rev": "05c629a9d5b698892ad4bdc8af2a5dfb4cd13ad3",
+    "path": "/nix/store/y4r9sa89r631qfij5iim1rnn61ywx5rb-dms-quick-capture",
+    "rev": "ec41990cb2d778395dd6318d0f3bcfb3db7915fd",
     "rootDir": "",
-    "sha256": "07v5i11v5ld9301rpygbmrpr4g5d27hm05f5w26bpzksmb3nlxnf",
+    "sha256": "1qawxjxvnvlkgb0inicdxif0ypdckn5320w38ljw4fxgwp712sg6",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
@@ -7210,12 +7210,12 @@
     "url": "https://github.com/kerojiang/dms-transBin"
   },
   "unifiedTaskbar": {
-    "date": "2026-07-17T22:49:18-04:00",
+    "date": "2026-08-04T18:57:57-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-71wIg+ndD/TD6h87yxOdOdNhNRNrhVCFPEHnV3vltbQ=",
+    "hash": "sha256-G5JJ23AYNPSHp8e/zLb8B6shY2CDPqGu1T17tT6IYFg=",
     "leaveDotGit": false,
     "meta": {
       "author": "Joshua Landau",
@@ -7237,10 +7237,10 @@
       "screenshot": "https://raw.githubusercontent.com/jslandau/dms-unified-taskbar/master/screenshot.png",
       "version": "1.1.2"
     },
-    "path": "/nix/store/87376i3a27axr8mc0y3jfa7j8k32bhk3-dms-unified-taskbar",
-    "rev": "0e54bd7be92267c6028e606a20c84a0cddfbbae3",
+    "path": "/nix/store/0m3kr7lz01fii0i4xr7967k0lgfddish-dms-unified-taskbar",
+    "rev": "6b1787f61f297a3ce5a14cbc7c425fc2314ad4a0",
     "rootDir": "",
-    "sha256": "1d5mwmxmgrs17j2m11bb2csn3lrrkl9wnfqzxb1z83yxx61hhp7g",
+    "sha256": "0n30i0zbayrxsnpa2gl3c1ij3aq7zjvcrgy7ly3z8d0qf3dlk4hv",
     "url": "https://github.com/jslandau/dms-unified-taskbar"
   },
   "uptimeBar": {
