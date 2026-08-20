@@ -4717,12 +4717,12 @@
     "url": "https://github.com/corcoran/dms-interval-command"
   },
   "ipIndicator": {
-    "date": "2026-06-25T01:52:04+07:00",
+    "date": "2026-08-19T07:40:05+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-nbNS00WCSyLfaxT47xSS17GosZK49sbLIw75rkZmgr8=",
+    "hash": "sha256-/G8iXOz75CAaoawVnZvoW214KGAXzHVQQ3Iprleba3Y=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -4744,12 +4744,12 @@
       "name": "IP Indicator",
       "repo": "https://github.com/hthienloc/dms-ipIndicator",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-ipIndicator/master/screenshot.png",
-      "version": "2.0.1"
+      "version": "2.1.0"
     },
-    "path": "/nix/store/ji52033p9z3p4br35kx5sv1iksfq95f8-dms-ipIndicator",
-    "rev": "f9761382c4b8504615e749dea48fd545e24e8fd9",
+    "path": "/nix/store/2hrsyl4gwaycv171g9xq7sffjdnpxrb4-dms-ipIndicator",
+    "rev": "988aeadbdcece2484d64806b16c9546642185674",
     "rootDir": "",
-    "sha256": "1gw2cr3axy8f4g5wdxmqjaqsicfpj8afzy0ldggj4jw28p9m5cwx",
+    "sha256": "0xkbkdbswabj8d87bk0pc0l7hvavx2drs5dcl4d21r7vxif24vzw",
     "url": "https://github.com/hthienloc/dms-ipIndicator"
   },
   "kaomojiPicker": {
@@ -6186,12 +6186,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-08-18T23:11:38+07:00",
+    "date": "2026-08-19T21:33:23+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-elOitAy1ihaWSmSnDXPPULfxuWHfbEDkL9ai2qNocIs=",
+    "hash": "sha256-bNT7e0GoewE9GwGng19PBdEjf1VuAwnBpJ+MjWe++R8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6211,12 +6211,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "5.0.2"
+      "version": "5.1.0"
     },
-    "path": "/nix/store/j4h63b71cjkbr9acby7md0qrwd3lhya5-dms-quick-capture",
-    "rev": "46e90a7cf1a1e95178c6b6da2d26481019ed5d3b",
+    "path": "/nix/store/gdqipyaxfpl7s94v1nanfdcc926i1sxg-dms-quick-capture",
+    "rev": "6ad6c44345ff214f987b2847cd6ac6c7be3802bb",
     "rootDir": "",
-    "sha256": "12vhd2ixm8nn5zj40v6zc6wz3dshrxrhv9v49ab1d2mm1jsa4lvs",
+    "sha256": "07zrprkqv34zlk0hj0vfamzj7l859xgq79q13cyh2yx885xzpm3c",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
@@ -7690,12 +7690,12 @@
     "url": "https://github.com/devnullvoid/dms-web-search"
   },
   "webcamViewer": {
-    "date": "2026-06-15T20:42:53-06:00",
+    "date": "2026-08-19T17:58:23-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-F/E8OJY7wTJGMGqlHO6Jzz1mupAYzA85q/rfGWgqGuw=",
+    "hash": "sha256-tXHUKDlePojiiPa2X45X3L8NXV9mbZversP+vdA6aWs=",
     "leaveDotGit": false,
     "meta": {
       "author": "antikytheraton",
@@ -7721,10 +7721,10 @@
       "screenshot": "https://github.com/antikytheraton/DankWebcamViewer/blob/main/assets/screenshot-plugin.png",
       "version": "1.0.1"
     },
-    "path": "/nix/store/020bipmc8sj9xxzacq47zwmb1j35bi22-DankWebcamViewer",
-    "rev": "ab3da441b0e20bab1ef46e55ff8853b4cb8c5f5d",
+    "path": "/nix/store/5am2cfzqv78gidlyjnl17nvvyq6aibak-DankWebcamViewer",
+    "rev": "2fd421a64b6bb908b360c83a1e9f64c481329a9d",
     "rootDir": "",
-    "sha256": "1v0s59l1kpzsmcwhzk0qj2x6cgfgi7p1r9ba61335h9vjqw3rw8p",
+    "sha256": "0sv97b8bvzn3mvg9nvb6bxfhvgyway75zdpni3i8hgjy74ld8wdm",
     "url": "https://github.com/antikytheraton/DankWebcamViewer"
   },
   "weeklyCalendar": {
