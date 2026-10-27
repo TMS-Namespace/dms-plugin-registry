@@ -1,13 +1,13 @@
 {
-    "id": "markets",
-    "name": "Markets",
+    "id": "githubInbox",
+    "name": "GitHub Inbox",
     "capabilities": ["dankbar-widget"],
-    "category": "finance",
-    "repo": "https://github.com/TMS-Namespace/DMS-Markets-Plugin",
-    "description": "Near-live market prices for currencies, stocks, and commodities with charts, without any credentials.",
+    "category": "productivity",
+    "repo": "https://github.com/TMS-Namespace/DMS-GitHub-Inbox-Plugin",
+    "description": "View and manage GitHub inbox messages (notifications) from a popup",
     "version": "2.0.0",
     "author": "TMS-Namespace",
-    "icon": "show_chart",
+    "icon": "code",
     "type": "widget",
     "component": "./src/QML/Widget.qml",
     "settings": "./src/QML/Settings.qml",
@@ -15,6 +15,6 @@
     "requires_dms": ">=2.0.0",
     "distro": ["any"],
     "compositors": ["any"],
-    "dependencies": ["curl", "bash", "coreutils"],
-    "screenshot": "https://github.com/TMS-Namespace/DMS-Markets-Plugin/raw/main/images/Dark-Popup.png"
+    "dependencies": ["curl", "secret-tool", "jq", "file", "bash", "nice", "cp", "find", "mkdir", "cat", "rm", "env", "sleep"],
+    "screenshot": "https://github.com/TMS-Namespace/DMS-GitHub-Inbox-Plugin/raw/main/images/plugin_group_by_date.png"
 }
